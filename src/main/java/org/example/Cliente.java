@@ -17,7 +17,7 @@ public class Cliente {
     public String getContacto() { return contacto; }
     public String getDireccion() { return direccion; }
 
-    // Método para mostrar info
+    // Metodo para mostar info
     public void mostrarInfo() {
         System.out.println("Dueño: " + nombre + " | Contacto: " + contacto + " | Dirección: " + direccion);
     }
